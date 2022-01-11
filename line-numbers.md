@@ -8,7 +8,7 @@
 #### 8
 #### 9 git dub is awesome 
 #### 10
-#### 11 y cool.se
+#### 11 ch is really cool.
 #### 12
 #### 13
 #### 14
